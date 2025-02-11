@@ -1,6 +1,4 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-# 💫 About Me:
+#Nirmal Rajkumar
 I'am a frontend Developer  working on over 10+ collaborative projects 
 
 
