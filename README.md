@@ -1,4 +1,4 @@
-#Nirmal Rajkumar
+## Nirmal Rajkumar
 I'am a frontend Developer  working on over 10+ collaborative projects 
 
 
